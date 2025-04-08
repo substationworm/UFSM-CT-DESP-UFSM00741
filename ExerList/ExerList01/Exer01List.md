@@ -67,7 +67,7 @@
     5. Compare the identifier and sequence number fields between ICMP requests and their corresponding replies. Did any changes occur throughout the packet capture?
     6. What are the IP addresses of the host computer and the destinations targeted by the `ping` command?
 
-## 📝 Exercise 04 - TCP no Wireshark
+## 📝 Exercise 04 - TCP in Wireshark
 
 - 🛠 **Procedures:**
     1. 🌐 Launch a web browser (e.g., Firefox).
