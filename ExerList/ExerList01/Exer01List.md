@@ -61,8 +61,8 @@
     3. 🔍 Analyze the captured traffic and respond to the questions below.
 - ❓ **Questions:**
     1. The Internet control message protocol (ICMP) operates at which layer of the OSI model?
-    2. What are the type and code values of the ICMP packet recorded in frame 345?
-    3. What are the type and code values of the ICMP packet recorded in frame 346?
+    2. What are the type and code values of the ICMP packet recorded in frame 7?
+    3. What are the type and code values of the ICMP packet recorded in frame 8?
     4. What is the size (in bits) of the checksum field in an ICMP message? What is its purpose?
     5. Compare the identifier and sequence number fields between ICMP requests and their corresponding replies. Did any changes occur throughout the packet capture?
     6. What are the IP addresses of the host computer and the destinations targeted by the `ping` command?
