@@ -26,3 +26,5 @@
     10. 🏁 Reconstruct the JPEG image from the previous challenge using [CyberChef](https://gchq.github.io/CyberChef/).
     11. 🏁 How many frames are marked as (suspected) retransmissions? `UFSM00741{xx}`
     12. 🏁 Locate the flag that is hidden within this Wireshark file. *No hint provided*
+
+    ![](CTF01.png "UFSM00741 - Capture the Flag 01")
