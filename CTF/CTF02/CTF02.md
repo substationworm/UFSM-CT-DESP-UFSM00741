@@ -10,6 +10,8 @@
 [![substationworm](https://img.shields.io/badge/substationworm-black)](https://github.com/substationworm)
 [![LFFreitasGutierres](https://img.shields.io/badge/LFFreitasGutierres-white)](https://github.com/LFFreitas-Gutierres)
 
+*Observation: Capacitor bank management is generally performed using dedicated controllers or intelligent electronic devices (IEDs).*
+
 ## 👷 Control Logic Description
 
 - Within the 13.8 kV sector of a substation, two three-phase capacitor banks (Bank A and Bank B) are installed for power factor correction during peak load periods.
@@ -19,7 +21,7 @@
     - 👉 No protection alarms are active (`FLT_OSC` for oscillations and `FLT_OC` for overcurrent).
 - The banks must be energized in a staggered sequence: Bank A is closed first. Bank B may only be energized after a programmed delay, provided all permissive conditions remain met.
 - Once a bank is energized, the control logic must supervise for abnormal conditions for a duration equal to twice the closing delay (individually for each bank). If any disturbance is detected, the affected bank must be automatically tripped and latched in a blocked state until manually reset by the operator.
-- If the local operator activates the `MODE_MANUAL`button, input, automatic control is overridden, and manual control via the human-machine interface (HMI) is enabled.
+- If the local operator activates the `MODE_MANUAL`button, automatic control is overridden and manual control via the human-machine interface (HMI) is enabled.
 - The manual reset `CMD_RESET` clears all blocking flags and timer conditions, restoring the system to automatic operation readiness.
 - If the power factor exceeds the permissible limit (`PF_HIGH`), both capacitor banks shall be blocked.
 
@@ -57,7 +59,7 @@
 ## 🏁 Challenges
 
 > [!WARNING]  
-> Flags for Challenges 01–24 must follow this format: `UFSM007414{Answer}`.
+> Flags for Challenges 01–24 must follow this format: `UFSM00741{Answer}`.
 >
 > Challenge 25 must be implemented directly in the `CTF02-Student.xpr` file and saved as `CTF02-StudentName.xpr` (replace *StudentName* accordingly).
 
