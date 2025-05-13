@@ -88,4 +88,4 @@
     - Product outflow: `OUT_FLOW = %I0.1`.
     - Alarm: `ALARM = %Q0.0`.
     - Counter reset: `RST = %I0.2`.
-    - Counter: `C01`
+    - Counter: `C01`.
