@@ -45,8 +45,8 @@
 - 🏷️ **Additional Requirements:** 
     - 🟢 Start push-button: `START = %I0.4`.
     - ⚫ Stop push-button: `STOP = %I0.5`.
+    - 🔵 Reset push-button: `RESET = %I0.6`.
     - 🔴 Visual alarm: `ALARM = %Q0.3`.
-    - 🔵 Reset push-button: `RESET = %Q0.4`.
 - 📋 **Instructions:**
     1. Develop the control logic using the [Twido Suite by Schneider Electric](https://www.se.com/br/pt/faqs/FA278356/).
     2. Create a human-machine interface (HMI) using [Vijeo Designer Basic by Schneider Electric](https://www.se.com/us/en/download/document/VijeoDesignerBasic/).
