@@ -14,7 +14,7 @@
 
 - 👷 **Control Logic Description:**
     - A sensor counts the passage of products on a conveyor.
-    - Every 10 products, a packaging piston is activated for 2 seconds to push the products into the package.
+    - Every ten products, a packaging piston is activated for two seconds to push the products into the package.
     - After this, the counter is reset and the process restarts.
     - A reset button allows the counter to be manually reset at any time.
     - An emergency stop button must halt the entire process, disabling both the piston activation and product counting.
@@ -45,13 +45,13 @@
 - 📋 **Instructions:**
     - The system must be controlled using function block diagram (FBD).
         - 👉 One function block in ladder diagram (LD) shall be used to control the conveyor.
-        - 👉 Onde function block in structured text (ST) shall be used to classify the parts.
+        - 👉 One function block in structured text (ST) shall be used to classify the parts.
 
 ## 📝 Exercise 03 - Direct Start of an Electric Motor
 
 - 🏷️ **Minimum Requirements:**
     - Start button: `Start` (type: `BOOL`).
-    - Stop button: `Stop` (type: `REAL`).
+    - Stop button: `Stop` (type: `BOOL`).
     - Overcurrent protection: `Overcurrent` (type: `BOOL`).
     - Motor: `Motor` (type: `BOOL`).
 - 📋 **Instructions:**
