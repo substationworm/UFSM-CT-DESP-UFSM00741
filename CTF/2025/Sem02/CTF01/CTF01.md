@@ -14,7 +14,7 @@
     1. 🦈 Open the `CTF01.pcapng` file using Wireshark.
     2. 🦈 Examine the packet capture carefully and address the challenges presented below.
 - ❓ **Challenges:**
-    1. 🏁 What is the total number of packets captured? `UFSM00741{xxxx}`
+    1. 🏁 What is the total number of packets captured? `UFSM00741{xxxxx}`
     2. 🏁 What is the SHA1 hash value of the capture file? `UFSM00741{xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx}`
     3. 🏁 What are the capture file comments? `UFSM00741{Xxxxx-Xxxxx-Xxxxx}`
     4. 🏁 How many frames are marked as response not found? `UFSM00741{xx}`
