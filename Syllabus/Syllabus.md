@@ -74,44 +74,44 @@
 
 | Date | Workload |
 | --- | --- |
-| 04-08-2025 (2h) | **Course start**. Syllabus presentation. |
-| 05-08-2025 (2h) | 1️⃣2️⃣ Introduction to ICS and Purdue model. |
-| 11-08-2025 (2h) | 1️⃣2️⃣ Introduction to ICS and Purdue model. |
-| 12-08-2025 (2h) | 1️⃣2️⃣ Introduction to ICS and Purdue model. |
-| 18-08-2025 (2h) | 1️⃣2️⃣ Introduction to ICS and Purdue model. |
-| 19-08-2025 (2h) | 1️⃣2️⃣ Introduction to ICS and Purdue model. |
-| 25-08-2025 (2h) | 1️⃣2️⃣ Introduction to ICS and Purdue model. |
-| 26-08-2025 (2h) | 1️⃣2️⃣ Introduction to ICS and Purdue model. |
-| 01-09-2025 (2h) | 3️⃣ Communication protocols for ICS. |
-| 02-09-2025 (2h) | 3️⃣ Communication protocols for ICS. |
-| 08-09-2025 (2h) | 3️⃣ Communication protocols for ICS. |
-| 09-09-2025 (2h) | 3️⃣ Communication protocols for ICS. |
-| 15-09-2025 (2h) | 3️⃣ Communication protocols for ICS. |
-| 16-09-2025 (2h) | 3️⃣ Communication protocols for ICS. |
-| 22-09-2025 | 🗓️ *SIGE 2025*. |
-| 23-09-2025 | 🗓️ *SIGE 2025*. |
-| 29-09-2025 (2h) | 3️⃣ Communication protocols for ICS. |
-| 30-09-2025 (2h) | 3️⃣ Communication protocols for ICS. |
-| 06-10-2025 (2h) | 3️⃣ Communication protocols for ICS. |
-| 07-10-2025 (2h) | 3️⃣ Communication protocols for ICS. |
-| 13-10-2025 (2h) | 3️⃣ Communication protocols for ICS. |
-| 14-10-2025 (2h) | 3️⃣ Communication protocols for ICS. |
-| 20-10-2025 | 🗓️ *SNPTEE 2025*. |
-| 21-10-2025 | 🗓️ *SNPTEE 2025*. |
-| 27-10-2025 | *Holiday*. |
-| 28-10-2025 | *Holiday*. |
-| 03-11-2025 (2h) | 🗓️ *JAI 2025*. |
-| 04-11-2025 (2h) | 🗓️ *JAI 2025*. |
-| 10-11-2025 (2h) | 4️⃣ Network topologies and services for ICS. |
-| 11-11-2025 (2h) | 4️⃣ Network topologies and services for ICS. |
-| 17-11-2025 (2h) | 4️⃣ Network topologies and services for ICS. |
-| 18-11-2025 (2h) | 4️⃣ Network topologies and services for ICS. |
-| 24-11-2025 (2h) | 5️⃣ Configuration, analysis, and monitoring of industrial networks for OT. |
-| 25-11-2025 (2h) | 5️⃣ Configuration, analysis, and monitoring of industrial networks for OT. |
-| 01-12-2025 (2h) | 5️⃣ Configuration, analysis, and monitoring of industrial networks for OT. |
-| 02-12-2025 (2h) | 5️⃣ Configuration, analysis, and monitoring of industrial networks for OT. |
-| 08-12-2025 | *Holiday*. |
-| 09-12-2025 | ❗ **Exam**. |
+| 02-03-2026 | - |
+| 03-03-2026 (2h) | **Course start**. Syllabus presentation. |
+| 09-03-2026 (2h) | 1️⃣2️⃣ Introduction to ICS and Purdue model. |
+| 10-03-2026 (2h) | 1️⃣2️⃣ Introduction to ICS and Purdue model. |
+| 16-03-2026 (2h) | 1️⃣2️⃣ Introduction to ICS and Purdue model. |
+| 17-03-2026 (2h) | 1️⃣2️⃣ Introduction to ICS and Purdue model. |
+| 23-03-2026 (2h) | 1️⃣2️⃣ Introduction to ICS and Purdue model. |
+| 24-03-2026 (2h) | 1️⃣2️⃣ Introduction to ICS and Purdue model. |
+| 30-03-2026 (2h) | 1️⃣2️⃣ Introduction to ICS and Purdue model. |
+| 31-03-2026 (2h) | 1️⃣2️⃣ Introduction to ICS and Purdue model. |
+| 06-04-2026 (2h) | 1️⃣2️⃣ Introduction to ICS and Purdue model. |
+| 07-04-2026 (2h) | 1️⃣2️⃣ Introduction to ICS and Purdue model. |
+| 13-04-2026 (2h) | 3️⃣ Communication protocols for ICS. |
+| 14-04-2026 (2h) | 3️⃣ Communication protocols for ICS. |
+| 20-04-2026 | *Holiday*. |
+| 21-04-2026 | *Holiday*. |
+| 27-04-2026 (2h) | 3️⃣ Communication protocols for ICS. |
+| 28-04-2026 (2h) | 3️⃣ Communication protocols for ICS. |
+| 04-05-2026 (2h) | 3️⃣ Communication protocols for ICS. |
+| 05-05-2026 (2h) | 3️⃣ Communication protocols for ICS. |
+| 11-05-2026 (2h) | 3️⃣ Communication protocols for ICS. |
+| 12-05-2026 (2h) | 4️⃣ Network topologies and services for ICS. |
+| 18-05-2026 (2h) | 4️⃣ Network topologies and services for ICS. |
+| 19-05-2026 (2h) | 4️⃣ Network topologies and services for ICS. |
+| 25-05-2026 (2h) | 4️⃣ Network topologies and services for ICS. |
+| 26-05-2026 (2h) | 4️⃣ Network topologies and services for ICS. |
+| 01-06-2026 (2h) | 4️⃣ Network topologies and services for ICS. |
+| 02-06-2026 (2h) | 4️⃣ Network topologies and services for ICS. |
+| 08-06-2026 (2h) | 4️⃣ Network topologies and services for ICS. |
+| 09-06-2026 (2h) | 5️⃣ Configuration, analysis, and monitoring of industrial networks for OT. |
+| 15-06-2026 (2h) | 5️⃣ Configuration, analysis, and monitoring of industrial networks for OT. |
+| 16-06-2026 (2h) | 5️⃣ Configuration, analysis, and monitoring of industrial networks for OT. |
+| 22-06-2026 (2h) | 5️⃣ Configuration, analysis, and monitoring of industrial networks for OT. |
+| 23-06-2026 | ❗ **Exam**. |
+| 29-06-2026 | - |
+| 30-06-2026 | - |
+| 06-07-2026 | - |
+| 07-07-2026 | - |
 
 ## 📚 Recommended References
 
